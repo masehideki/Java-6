@@ -54,6 +54,9 @@ Node.jsをインストールしてcreate-react-appで簡単にできていたの
 ＊実行するとルートディレクトリ下にbuildフォルダが作成される。
 
 ## 動作確認
+<img width="1837" alt="スクリーンショット 2023-07-11 1 44 54" src="https://github.com/masehideki/Java-6/assets/135149708/a2c3f786-62d3-46c4-a40c-ebf0911737ad">
+
+<img width="372" alt="スクリーンショット 2023-07-11 1 45 54" src="https://github.com/masehideki/Java-6/assets/135149708/cd119015-7002-4547-99e1-9c2d794e4a27">
 
 ## 学び
 ・セマンティックバージョニング：
